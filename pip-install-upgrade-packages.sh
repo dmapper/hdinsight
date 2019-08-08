@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-/usr/bin/anaconda/bin/pip install --upgrade pip $@
+/usr/bin/anaconda/envs/py35/bin/pip install --upgrade pip $@
